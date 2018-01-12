@@ -22,6 +22,7 @@ When using the code, please cite the following paper:
 Efficient Low Rank Tensor Ring Completion
 Wenqi Wang, Vaneet Aggarwal, and Shuchin Aeron
 The IEEE International Conference on Computer Vision (ICCV), 2017, pp. 5697-5705
+
 Available: http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Efficient_Low_Rank_ICCV_2017_paper.pdf
 
 --------------------------------------------------
