@@ -10,6 +10,7 @@ To run the Tensor Ring Completion algorithm
 (2) run Video.m for Gunshot video completion
 
 (3) run YaleFace.m for YaleFace image completion
+
 -------------------------------------------------
 
 Terms of use:
