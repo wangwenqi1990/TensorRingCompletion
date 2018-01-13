@@ -5,7 +5,7 @@ Copyright @ Wenqi Wang, 2017
 ------------------------------------------------
 To run the Tensor Ring Completion algorithm
 
-(1) run Einstain.m for Einstain image completion
+(1) run Einstein.m for Einstain image completion
 
 (2) run Video.m for Gunshot video completion
 
